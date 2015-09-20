@@ -1,0 +1,32 @@
+{
+  "name": "clienterror",
+  "version": "0.0.2",
+  "description": "Catch all errors. The official driver for the www.catcherror.com",
+  "main": "dist/index.js",
+  "keywords": [
+    "client",
+    "error",
+    "catch",
+    "errors",
+    "promise"
+  ],
+  "files": [
+    "dist/",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seeden/clienterror.git"
+  },
+  "author": "Zlatko Fedor <zlatkofedor@cherrysro.com>",
+  "license": "APACHE-2.0",
+  "bugs": {
+    "url": "https://github.com/seeden/clienterror/issues"
+  },
+  "homepage": "https://github.com/seeden/clienterror",
+  "devDependencies": {},
+  "dependencies": {}
+}
