@@ -1,6 +1,6 @@
 {
   "name": "catcherror",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Catch all errors. The official driver for the www.catcherror.com",
   "main": "dist/index.js",
   "keywords": [
